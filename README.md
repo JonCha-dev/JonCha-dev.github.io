@@ -7,5 +7,9 @@ Click [here](https://JonCha-dev.github.io/projects/) to see my list of projects.
 
 
 
-## Contact
+## Contacts and Profiles
 _E-MAIL:_ jonasenchang@gmail.com
+
+_Linkedin:_ linkedin.com/in/jonasen-chang-04121994
+
+_Github:_ github.com/joncha-dev
