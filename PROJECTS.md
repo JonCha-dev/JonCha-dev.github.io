@@ -7,6 +7,11 @@ permalink: /projects/
 # Projects: 
 ### ------------------------------------------------------------------------------------------
 
+[ISA Project](https://github.com/vmvazquez/CSE141L-Processor) (Currently a private repo)
+
+- A dedicated Instruction Set Architecture designed in order to accomplish three tasks: generate Hamming Code bits, perform one-bit error correction and two-bit error detection, and count occurences of a specified bit pattern in memory.
+
+
 [SurfStore](https://github.com/JonCha-dev/SurfStore/tree/main/SurfStore-j3chang-main) 
 
 - A cloud-based file storage system implemented through golang. Allows multiple clients to sync files by pushing/pulling version changes to/from a remote server, comparing the versions between the local files and remote files on the server. Also supports deleting files.
